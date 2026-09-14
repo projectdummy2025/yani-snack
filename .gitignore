@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Code Intelligence
+.codegraph/
+
+# Environment & Logs
+.env
+.env.*.local
+*.log
+
+# OS Junk
+.DS_Store
