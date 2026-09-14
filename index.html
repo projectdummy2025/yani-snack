@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yani Snack - Jajanan Pasar Tradisional Yogyakarta</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary-container": "#2e6b3b",
+              "on-secondary-fixed-variant": "#822801",
+              "error": "#ba1a1a",
+              "on-primary-fixed": "#002109",
+              "on-surface": "#2b170b",
+              "tertiary-container": "#9a4703",
+              "background": "#fff8f6",
+              "error-container": "#ffdad6",
+              "on-primary-container": "#a7e9ad",
+              "on-secondary-fixed": "#390c00",
+              "surface-container-low": "#fff1eb",
+              "primary-fixed": "#b0f2b5",
+              "primary-fixed-dim": "#95d69b",
+              "secondary-fixed-dim": "#ffb59c",
+              "on-background": "#2b170b",
+              "on-tertiary-fixed": "#321200",
+              "surface-container": "#ffeae0",
+              "surface-container-lowest": "#ffffff",
+              "on-secondary-container": "#6f2000",
+              "inverse-on-surface": "#ffede6",
+              "on-error-container": "#93000a",
+              "tertiary": "#763400",
+              "surface-variant": "#ffdbca",
+              "primary": "#125225",
+              "on-tertiary": "#ffffff",
+              "tertiary-fixed": "#ffdbc9",
+              "tertiary-fixed-dim": "#ffb68c",
+              "surface-bright": "#fff8f6",
+              "outline": "#71796f",
+              "secondary-fixed": "#ffdbcf",
+              "on-primary-fixed-variant": "#115225",
+              "surface-container-high": "#ffe2d5",
+              "surface-tint": "#2d6a3a",
+              "on-primary": "#ffffff",
+              "secondary-container": "#fe8357",
+              "inverse-surface": "#422b1e",
+              "surface": "#fff8f6",
+              "on-error": "#ffffff",
+              "on-tertiary-fixed-variant": "#753400",
+              "outline-variant": "#c0c9bd",
+              "surface-container-highest": "#ffdbca",
+              "on-tertiary-container": "#ffd0b6",
+              "surface-dim": "#f9d2bf",
+              "inverse-primary": "#95d69b",
+              "on-surface-variant": "#414940",
+              "secondary": "#a23e18",
+              "on-secondary": "#ffffff"
+            },
+            borderRadius: {
+              DEFAULT: "0.25rem",
+              lg: "0.5rem",
+              xl: "0.75rem",
+              full: "9999px"
+            },
+            spacing: {
+              gutter: "1.5rem",
+              "space-md": "1rem",
+              "space-sm": "0.5rem",
+              "space-xs": "0.25rem",
+              "gutter-sm": "1rem",
+              "margin-sm": "1rem",
+              margin: "2rem",
+              "space-xl": "2.5rem",
+              "space-lg": "1.5rem"
+            },
+            fontFamily: {
+              "headline-lg": ["Plus Jakarta Sans", "sans-serif"],
+              "label-lg": ["Plus Jakarta Sans", "sans-serif"],
+              "body-lg": ["Plus Jakarta Sans", "sans-serif"],
+              "headline-lg-mobile": ["Plus Jakarta Sans", "sans-serif"],
+              "headline-md": ["Plus Jakarta Sans", "sans-serif"],
+              "body-md": ["Plus Jakarta Sans", "sans-serif"],
+              "label-md": ["Plus Jakarta Sans", "sans-serif"],
+              "body-sm": ["Plus Jakarta Sans", "sans-serif"],
+              "title-md": ["Plus Jakarta Sans", "sans-serif"],
+              "headline-sm": ["Plus Jakarta Sans", "sans-serif"],
+              "title-lg": ["Plus Jakarta Sans", "sans-serif"],
+              display: ["Plus Jakarta Sans", "sans-serif"],
+              "display-mobile": ["Plus Jakarta Sans", "sans-serif"],
+              "label-sm": ["Plus Jakarta Sans", "sans-serif"]
+            },
+            fontSize: {
+              "headline-lg": ["36px", { "lineHeight": "44px", "letterSpacing": "0.01em", "fontWeight": "700" }],
+              "label-lg": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+              "body-lg": ["16px", { "lineHeight": "26px", "fontWeight": "400" }],
+              "headline-lg-mobile": ["26px", { "lineHeight": "34px", "fontWeight": "700" }],
+              "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "700" }],
+              "body-md": ["14px", { "lineHeight": "22px", "fontWeight": "400" }],
+              "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+              "body-sm": ["12px", { "lineHeight": "18px", "fontWeight": "400" }],
+              "title-md": ["16px", { "lineHeight": "24px", "fontWeight": "600" }],
+              "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+              "title-lg": ["18px", { "lineHeight": "26px", "fontWeight": "700" }],
+              display: ["48px", { "lineHeight": "56px", "letterSpacing": "0.01em", "fontWeight": "700" }],
+              "display-mobile": ["34px", { "lineHeight": "42px", "letterSpacing": "0.01em", "fontWeight": "700" }],
+              "label-sm": ["10px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "700" }]
+            }
+          }
+        }
+      };
+    </script>
+  </head>
+  <body class="bg-background text-on-background antialiased selection:bg-primary-fixed selection:text-on-primary-fixed min-h-screen flex flex-col">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
