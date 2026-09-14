@@ -1,0 +1,427 @@
+{
+  "announcement": {
+    "badge": null,
+    "message": "Pre-Order Jajanan Pasar & Hampers Area Yogyakarta",
+    "cta": "Pesan Sekarang",
+    "ctaHref": "#order-flow"
+  },
+  "navigation": {
+    "brand": {
+      "title": "Yani Snack",
+      "subtitle": "Jajanan Pasar Rumahan"
+    },
+    "links": [
+      {
+        "label": "Menu Pilihan",
+        "href": "#menu"
+      },
+      {
+        "label": "Paket Besek",
+        "href": "#hampers"
+      },
+      {
+        "label": "Tentang Kami",
+        "href": "#about"
+      },
+      {
+        "label": "Ulasan",
+        "href": "#reviews"
+      },
+      {
+        "label": "Cara Pesan",
+        "href": "#order-flow"
+      }
+    ],
+    "whatsapp": {
+      "label": "Pesan via WhatsApp",
+      "href": "https://wa.me/6281234567890?text=Halo%20Yani%20Snack,%20saya%20mau%20pesan%20jajanan%20pasar"
+    }
+  },
+  "hero": {
+    "badge": null,
+    "headline": "Aroma Subuh Jogja, Hangatnya Resep Simbah di Meja Anda",
+    "subtitle": "Mengolah santan murni, gula kelapa Kulon Progo, dan daun pandan segar setiap subuh. Cita rasa warisan keluarga tanpa pengawet sintetik untuk meja jamuan Anda.",
+    "ctas": [
+      {
+        "label": "Pesan untuk Acara",
+        "href": "#hampers",
+        "icon": "arrow_forward",
+        "variant": "primary"
+      },
+      {
+        "label": "Lihat Daftar Menu",
+        "href": "#menu",
+        "variant": "secondary"
+      }
+    ],
+    "stats": [
+      {
+        "value": "5.000+",
+        "label": "Kue Terkirim/Bulan"
+      },
+      {
+        "value": "4.9",
+        "label": "Rating Google Maps",
+        "icon": "star"
+      },
+      {
+        "value": "100%",
+        "label": "Bahan Alami Pilihan"
+      }
+    ],
+    "image": {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuA4ROd1q-3526Z_j9fxmduMUSTlcAXAc_XCYt1W9sP6IhE2tnNldR5ZLRoXEFG6QGg1b5NfqF7ZdcNlys0w703v1IdSFDDNnvQxg8IuXq_GUOqmxeBRIWh58t4naxdxwroJVYtJrWKrXY-iJyVzSEx4lnNwcEcHQ0MeccxbUaZbewfNqINJnWrg4dWHvyM1RsR3szxxCNpN6jawoQmG86sQ825odPFkuZr7JsgiIfCZsTsXN2MKpraZ",
+      "alt": "An authentic artisanal Indonesian traditional snack presentation served on a rustic woven bamboo tampah lined with freshly cut green banana leaves. The arrangement prominently highlights emerald green klepon balls coated with fresh white shredded coconut, charred golden lemper bakar bound in rustic pandan twine, and delicate steamed nagasari. The background exhibits warm natural morning light pouring across a rich teak table surface, echoing an inviting heritage culinary atmosphere with subtle earthy undertones and crisp food styling."
+    },
+    "floatingBadges": null
+  },
+  "valueProp": {
+    "eyebrow": "KISAH DI BALIK PAWON",
+    "title": "Rasa yang Lahir dari Kesabaran & Doa di Setiap Adukannya",
+    "paragraphs": [
+      "Bagi kami, jajanan pasar bukan sekadar komoditas pengganjal lapar di sela pertemuan. Setiap butir klepon yang meletup lembut di lidah, setiap lapis legit yang dikerjakan dengan sabar selapis demi selapis, menyimpan rasa hormat pada alam tanah Jawa.",
+      "Kami memilih jalan yang lambat namun jujur: memarut kelapa segar sendiri, menumbuk daun suji untuk warna hijau zamrud alami tanpa setitik pun pewarna kimia, serta mengukus beralaskan daun pisang kluthuk segar agar keharumannya meresap tuntas ke dalam serat ketan. Ketika sajian ini diletakkan di meja jamuan Anda, yang hadir adalah kehangatan sambutan khas Jogja yang tulus memuliakan setiap tamu."
+    ],
+    "highlights": [
+      {
+        "title": "100% Alami",
+        "description": "Pandan suji, santan murni, gula nira aren"
+      },
+      {
+        "title": "Slow-Crafted",
+        "description": "Kukusan bambu tradisional subuh hari"
+      }
+    ],
+    "image": {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuAIV48VJ5RBFz0Ryh_P1ugjY9MFpBciJaHLVvXB-74YVFuF036pqwFkzg1Ukn5CSraAgHZEKESz-eqIgmSFcWcaKti8Tke1Fal2sXzvYPVHb_NnMDM6DM8wto-E8XjXYSy0QrQMPpFJC_ufKXbqxgA-PEyfvnSRKfaWyotMWblLhKHiNR6buij_DQmEiXF_ZwFmKV8bV_UggaBraZ8KSBjln9vq5bMXRMp2IjJDeS4vHEGcsL6KiA7U",
+      "alt": "Pawon Yani Snack Yogyakarta"
+    },
+    "badge": {
+      "label": "Filosofi Dapur Subuh",
+      "quote": "Sajen Rasa, Nguri-uri Tradisi"
+    }
+  },
+  "about": {
+    "eyebrow": "KUALITAS WARISAN",
+    "title": "Dedikasi Rasa Otentik Tanpa Kompromi",
+    "cards": [
+      {
+        "number": "01",
+        "tag": "Bahan Murni",
+        "title": "Bukan Sekadar Manis, Tapi Sehat",
+        "description": "Kami menolak pemanis buatan dan pewarna sintetik. Manis legitnya bersumber langsung dari gula aren nira murni Kulon Progo, bersahabat dan aman untuk seluruh keluarga."
+      },
+      {
+        "number": "02",
+        "tag": "Kekayaan Bumi",
+        "title": "Hasil Bumi Pekarangan Asli",
+        "description": "Wangi pandan suji yang dipetik segar, beras ketan pulen pilihan, serta gurihnya kelapa tua perasan pertama menghasilkan harmoni rasa yang tak lekang oleh waktu."
+      },
+      {
+        "number": "03",
+        "tag": "Segar Sejak Matang",
+        "title": "Matang Saat Fajar Merebak",
+        "description": "Tak ada stok sisa kemarin. Dandang kukusan dan panggangan daun baru mengepul saat kota masih lelap, memastikan kue tiba di meja Anda dalam kondisi paling prima."
+      },
+      {
+        "number": "04",
+        "tag": "Tata Saji Ayu",
+        "title": "Unggah-Ungguh Jamuan",
+        "description": "Dikemas rapi dalam balutan besek bambu alami atau karton food-grade higienis. Menghadirkan rasa hormat dan kehormatan bagi siapa pun yang menikmatinya."
+      }
+    ]
+  },
+  "menu": {
+    "eyebrow": "RESEP ISTIMEWA",
+    "title": "Menu Pilihan Hari Ini",
+    "subtitle": "Kudapan favorit yang selalu dinanti di setiap momen perjumpaan.",
+    "filters": [
+      {
+        "id": "all",
+        "label": "Semua"
+      },
+      {
+        "id": "gurih",
+        "label": "Gurih & Asin"
+      },
+      {
+        "id": "manis",
+        "label": "Manis Legi"
+      },
+      {
+        "id": "legendaris",
+        "label": "Kue Basah Legendaris"
+      }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "name": "Klepon Gula Jawa",
+        "price": "Rp3.500",
+        "minOrder": "Min. 10 pcs",
+        "category": "manis legendaris",
+        "tag": {
+          "label": "Favorit",
+          "variant": "secondary"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdEoR9vgmvIiRlsjnK8ErCBVvwrKSPjlxixkr4Jj4p7wIqHHVSog8n9QW8NNIuxQj4_8XEIIe41S6RePHGnfD0pc08okChuoqxjKq4NMOBgcBoH2tb8NFslxK62FmTVktdYE66qIeNnTyMdH0Okpdr9cwuatM_GmDf0lGPfELCrPEpRsuCoWNuQQ6NWkKh6jyU1t2BNQ0fuPIfEHaRGD3p7oIn_xKymfglUQ4X-sevHehVSKyoptss",
+        "description": "Sensasi letupan gula aren cair legit berbalut kelapa parut gurih kukus dengan aroma daun pandan segar."
+      },
+      {
+        "id": "2",
+        "name": "Lemper Ayam Bakar",
+        "price": "Rp4.500",
+        "minOrder": "Min. 10 pcs",
+        "category": "gurih legendaris",
+        "tag": {
+          "label": "Best Seller",
+          "variant": "tertiary"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAIV48VJ5RBFz0Ryh_P1ugjY9MFpBciJaHLVvXB-74YVFuF036pqwFkzg1Ukn5CSraAgHZEKESz-eqIgmSFcWcaKti8Tke1Fal2sXzvYPVHb_NnMDM6DM8wto-E8XjXYSy0QrQMPpFJC_ufKXbqxgA-PEyfvnSRKfaWyotMWblLhKHiNR6buij_DQmEiXF_ZwFmKV8bV_UggaBraZ8KSBjln9vq5bMXRMp2IjJDeS4vHEGcsL6KiA7U",
+        "description": "Ketan pulen wangi aroma bakar daun pisang dengan isian suwiran daging ayam rempah ketumbar melimpah."
+      },
+      {
+        "id": "3",
+        "name": "Kue Semar Mendem",
+        "price": "Rp4.500",
+        "minOrder": "Min. 10 pcs",
+        "category": "gurih legendaris",
+        "tag": {
+          "label": "Gurih",
+          "variant": "outline"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCUKfyUeKDJgjaL55wUg7Fk2qxENoJm2hzLPxFWuT-BNdZxddcbMe774WOmgERRvb2ZbkJDTyLFe_M_OqOeXZPFCjKaYqy2T4vlbAsgAEinXs7EBBz3DN8FMtWbCnMF9ipUi80kWXlKccR9qgwhuIOPsl_oFlRLgWDNJn0iSNJHmUF52WnQ11AXx1WLrSj_htjjCuhUtRbCYhEguHcTu6PgDwCnxTEooIDejVjKgKxsswHJFWQKSZhU",
+        "description": "Dadaran telur lembut tipis membalut ketan pulen isi ayam bumbu gurih khas keraton Yogyakarta."
+      },
+      {
+        "id": "4",
+        "name": "Lapis Legit Mini",
+        "price": "Rp6.000",
+        "minOrder": "Min. 5 pcs",
+        "category": "manis",
+        "tag": {
+          "label": "Manis Legi",
+          "variant": "outline"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDAb6XtELET90SZot4tbV5uGoawgS5JDdDXMIPiCfxIK6ntnttqKezYMKsjJ1eX_iEGAOm2g3uwlos7N7JBR39ckLOR58AV7O1Rw2qHvNyv6HPXycT-EqyksfqGzC2Z2oelwDhtCYqxeQaUUUKrn6B9QC-Cf5_yqWXT3jv7PnATPFE32WNun1u7mGJe7WGOh_j-SBEF33LDNImjgIsZ2YA4Ltez1pPNJkbW-ukiFRDzo0pOo6_9Pb5I",
+        "description": "Lapisan rempah spekuk harum wangi butter premium, tekstur moist lembut lumer saat disentuh lidah."
+      },
+      {
+        "id": "5",
+        "name": "Nagasari Pisang Raja",
+        "price": "Rp3.500",
+        "minOrder": "Min. 10 pcs",
+        "category": "manis legendaris",
+        "tag": {
+          "label": "Klasik",
+          "variant": "outline"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh5CxCCXS5rGqihQX4XRWY0K9HRKGfk_B_ZXAgOLTmCyeNSEXsD0iYYOxXGSXTnEx6wroGHFR9e-jynUfDnG6TGfPUt45MKKs-6CQrejs5bEwVRbV9l1H0sjLh92JInj7y59pz34zznc9onxISBsPo-JnCJgVagStdn7sIYROYa4qWwKOE6lyuT5VwmjtVLJ_9-wzNAmyyOIBYVLqx4jE8xXKKC-O4AO0s90dIxCvxyWFe3MD_u_zY",
+        "description": "Tepung beras lembut kenyal gurih santan berpadu potongan manis legit buah pisang raja kukus pilihan."
+      },
+      {
+        "id": "6",
+        "name": "Dadar Gulung Pandan Suji",
+        "price": "Rp3.500",
+        "minOrder": "Min. 10 pcs",
+        "category": "manis legendaris",
+        "tag": {
+          "label": "Manis Legi",
+          "variant": "outline"
+        },
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAyWdJ33DlH9-8NNOcTL1ppWw_qgl7usirIXOxHlXnhKXJKNDgNjjuiVfDOGFFMXeryzdfAB1J7i2meZJRVN9W5heHZHrj2nXF8EslTq-UYVKzrAbGB_ZN7fkEIBY-Tw6UoidTrMQ68T-IGxUauYTvtfGvcJd5oGD4F8jFx8-knU_DU_dPYbEY8d_sn2nvJr2n_0vAXjqoj5JrK5HsFcMpL5n3GKhi8P37RMPqJbvBgnVX76P9Nv8Cg",
+        "description": "Warna hijau murni daun suji pekarangan berpadu isian unti kelapa gula merah legit yang harum gurih."
+      }
+    ]
+  },
+  "hampers": {
+    "eyebrow": "KEMASAN KHAS JOGJA",
+    "title": "Paket Hantaran & Snack Box Acara",
+    "subtitle": "Sebagai lambang tali asih, rasa syukur, dan penghormatan tulus. Ditata anggun dalam wadah ramah bumi untuk lamaran, silaturahmi keluarga, hingga perjamuan kehormatan instansi.",
+    "packages": [
+      {
+        "id": "1",
+        "category": "Hampers Silaturahmi",
+        "style": "Anyaman Klasik",
+        "name": "Besek Bambu Tradisional",
+        "description": "Anyaman bambu natural diikat pita rami etnik dan kartu ucapan kaligrafi. Berisi 12–16 macam kue campur manis dan gurih berselimut daun pisang segar.",
+        "features": [
+          "Kombinasi 4 macam kue pasar pilihan",
+          "Pita rami & Tag kustom nama personal",
+          "Alas daun pisang higienis aromatis"
+        ],
+        "price": "Rp65.000",
+        "priceUnit": "/ paket",
+        "whatsappMessage": "Halo%20Yani%20Snack,%20saya%20tertarik%20tanya%20Paket%20Besek%20Bambu",
+        "badge": null
+      },
+      {
+        "id": "2",
+        "category": "Praktis & Elegan",
+        "style": "Food-Grade Eco",
+        "name": "Snack Box Karton Kraft",
+        "description": "Karton tebal ramah lingkungan standar food grade, isi 3–4 macam kue premium ditemani air mineral kemasan atau teh melati cup.",
+        "features": [
+          "Pilihan 3 atau 4 kue per box rapat",
+          "Termasuk air mineral & tisu higienis",
+          "Label branding instansi gratis (min. 50 pax)"
+        ],
+        "price": "Rp16.500",
+        "priceUnit": "/ box",
+        "whatsappMessage": "Halo%20Yani%20Snack,%20saya%20mau%20pesan%20Snack%20Box%20Karton%20Rapat",
+        "badge": {
+          "label": "Paling Sering Dipesan Instansi",
+          "position": "top"
+        }
+      },
+      {
+        "id": "3",
+        "category": "Perjamuan Mewah",
+        "style": "Pusaka Meja",
+        "name": "Tampah Sultan Tampah Anyam",
+        "description": "Tampah bambu diameter 45–55cm berhias lipatan daun pisang kembar janur, berisi 60–80 aneka kue warna-warni memikat selera tamu agung.",
+        "features": [
+          "Isi 60-80 potong kue campur istimewa",
+          "Tampah anyam bambu halus pengrajin lokal",
+          "Ideal untuk lamaran, akad, dan tasyakuran"
+        ],
+        "price": "Rp280.000",
+        "priceUnit": "/ tampah",
+        "whatsappMessage": "Halo%20Yani%20Snack,%20saya%20mau%20order%20Tampah%20Sultan",
+        "badge": null
+      }
+    ],
+    "consultationBanner": {
+      "icon": "contact_support",
+      "title": "Perlu jumlah porsi kustom atau menu khusus alergi?",
+      "description": "Dapur kami siap menyesuaikan komposisi kudapan sesuai budget dan selera tamu Anda.",
+      "cta": {
+        "label": "Konsultasi Menu & Estimasi Biaya WhatsApp",
+        "icon": "send",
+        "href": "https://wa.me/6281234567890?text=Halo%20Yani%20Snack,%20saya%20ingin%20konsultasi%20menu%20acara"
+      }
+    }
+  },
+  "reviews": {
+    "eyebrow": "KATA MEREKA",
+    "title": "Dipercaya Ratusan Meja Jamuan di Jogja",
+    "subtitle": "Kisah manis dari para pelanggan setia Yani Snack di Yogyakarta dan sekitarnya.",
+    "items": [
+      {
+        "id": "1",
+        "rating": 5,
+        "context": "Snack box rapat kantor - 120 pax",
+        "text": "Kue tiba jam 07.30 masih hangat, lemper bakarnya jadi rebutan jajaran direksi. Box rapi dan profesional sekali!",
+        "author": {
+          "name": "Bu Dian Ratnasari",
+          "role": "HR Manager, Sleman",
+          "initials": "DR"
+        }
+      },
+      {
+        "id": "2",
+        "rating": 5,
+        "context": "Hantaran Besek Arisan - 25 besek",
+        "text": "Kemasan beseknya ayu banget, kleponnya manis pas nggak kemanisan. Tamu arisan pada minta kontaknya Yani Snack buat acara mereka.",
+        "author": {
+          "name": "Mbak Maya Wardhani",
+          "role": "Kotagede, Yogyakarta",
+          "initials": "MW"
+        }
+      },
+      {
+        "id": "3",
+        "rating": 5,
+        "context": "Coffee Break Wedding - 350 pax",
+        "text": "Paling suka karena rasanya otentik seperti buatan simbah dulu, higienis dan tim pengiriman tepat waktu tanpa kendala.",
+        "author": {
+          "name": "Mas Aditya Pratama",
+          "role": "Danurejan, Yogyakarta",
+          "initials": "AP"
+        }
+      }
+    ]
+  },
+  "orderFlow": {
+    "eyebrow": "CARA PESAN",
+    "title": "Praktis, Cepat, dan Pasti Hangat Sampai Tujuan",
+    "subtitle": "Gunakan langkah sederhana berikut untuk memesan kue tradisional favorit Anda.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Pilih Menu",
+        "description": "Lihat pilihan menu di atas, tentukan kue favorit, dan catat kebutuhan jumlah porsi Anda."
+      },
+      {
+        "number": "2",
+        "title": "Konfirmasi Pesanan",
+        "description": "Kirim pesan WhatsApp beserta menu, jumlah, alamat, dan estimasi tanggal pengiriman yang diinginkan."
+      },
+      {
+        "number": "3",
+        "title": "Terima & Nikmati",
+        "description": "Pesanan siap dikirim pada pagi hari. Nikmati kehangatan kue tradisional Yani Snack bersama orang tersayang."
+      }
+    ]
+  },
+  "footer": {
+    "brand": {
+      "title": "Yani Snack",
+      "description": "Jajanan pasar rumahan Yogyakarta yang dibuat dari bahan alami pilihan, tanpa pewarna dan pengawet. Setiap gigitan adalah kenangan hangat dari dapur subuh.",
+      "instagram": "@yanisnack.jogja"
+    },
+    "layanan": {
+      "title": "Layanan",
+      "links": [
+        {
+          "label": "Ketentuan Pre-Order",
+          "href": "#order-flow"
+        },
+        {
+          "label": "Area Pengiriman & Kurir",
+          "href": "#order-flow"
+        },
+        {
+          "label": "Katalog Hampers Besek",
+          "href": "#hampers"
+        }
+      ]
+    },
+    "informasi": {
+      "title": "Informasi",
+      "links": [
+        {
+          "label": "Konsultasi Menu Rapat",
+          "href": "#hampers"
+        },
+        {
+          "label": "Kebijakan Privasi",
+          "href": "#about"
+        },
+        {
+          "label": "Hubungi Dapur Kami",
+          "href": "#order-flow",
+          "primary": true
+        }
+      ]
+    },
+    "dapurProduksi": {
+      "title": "Dapur Produksi",
+      "items": [
+        {
+          "icon": "location_on",
+          "text": "Jl. Kaliurang Km 7, Condongcatur, Sleman, D.I. Yogyakarta 55281"
+        },
+        {
+          "icon": "schedule",
+          "text": "Produksi & Kirim: 05.30 - 16.00 WIB"
+        },
+        {
+          "icon": "local_shipping",
+          "text": "Coverage: Kota Jogja, Sleman, Bantul"
+        }
+      ]
+    },
+    "copyright": "© 2024 Yani Snack Jajanan Pasar Tradisional Yogyakarta. Seluruh hak cipta dilindungi."
+  }
+}
